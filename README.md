@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElshanHajali
+- 👋 Hi, I’m Elshan Hacaliyev
 - I’m interested in Software development
 - I’m currently learning Java Backend Microservices
 - I’m looking for job opportunities ...
